@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1762401295266,
+    "caseNumber": "002",
+    "type": "Family",
+    "description": "divorce and marriage dissolution",
+    "severity": "Low",
+    "status": "Pending",
+    "timestamp": "11/6/2025, 9:24:55 AM",
+    "solvedDate": null
+  },
+  {
+    "id": 1762401258938,
+    "caseNumber": "001",
+    "type": "Criminal",
+    "description": "murder",
+    "severity": "High",
+    "status": "Active",
+    "timestamp": "11/6/2025, 9:24:18 AM",
+    "solvedDate": null
+  }
+]
